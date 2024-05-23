@@ -1,5 +1,12 @@
+# Chatbot project
 langchain_openai 
 langchain_core
 python-dotenv
 streamlit
 langchain_community
+
+#API
+langserve # Turn your LLM app into an API server instantly with LangServe
+fastapi # Web framework for building APIs with Python based on standard Python type hints
+uvicorn # ASGI web server implementation for Python
+sse_starlette

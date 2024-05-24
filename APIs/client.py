@@ -26,3 +26,5 @@ if input_text_Llama:
 if input_text_Gemma:
     st.write(get_Gemma_response(input_text_Gemma))
 
+# To make this client work we need to start the API first with app.py
+

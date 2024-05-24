@@ -10,3 +10,10 @@ langserve # Turn your LLM app into an API server instantly with LangServe
 fastapi # Web framework for building APIs with Python based on standard Python type hints
 uvicorn # ASGI web server implementation for Python
 sse_starlette
+
+# RAG pipeline
+bs4
+pypdf
+llama-index
+chromadb
+faiss-cpu

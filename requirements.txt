@@ -17,3 +17,7 @@ pypdf
 llama-index
 chromadb
 faiss-cpu
+
+wikipedia
+arxiv
+langchainhub

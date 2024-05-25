@@ -18,6 +18,12 @@ llama-index
 chromadb
 faiss-cpu
 
+# Agents
 wikipedia
 arxiv
 langchainhub
+
+# Groq
+groq
+cassio
+langchain-groq
